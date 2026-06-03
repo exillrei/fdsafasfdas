@@ -1,1 +1,3 @@
 mc.hypixel.net:25565
+mc.mineblaze.net:25565
+mc.adfsasdfas.ru:25565
