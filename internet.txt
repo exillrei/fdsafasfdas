@@ -3,3 +3,11 @@ mc.mineblaze.net:25565
 mc.skycave.pro:25565
 mc.minelord.ru:25565
 mbars.su:25565
+super.fpmc.pro:25565
+play.mlegacy.net:25565
+play.funnymc.net:25565
+mr.mycube.su:25565
+mc.migosmc.net:25565
+hot.twenture.ru:25565
+hot.vcnw.ru:25565
+mc.sakeva.net:25565
