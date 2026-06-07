@@ -1,3 +1,6 @@
 mc.hypixel.net:25565
 mc.mineblaze.net:25565
 5.83.140.206:25790
+mc.skycave.pro:25565
+mc.minelord.ru:25565
+mbars.su:25565
